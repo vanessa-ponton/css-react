@@ -1,14 +1,14 @@
-h1 , ul  {
+ul, li , h1  {
 font-size: medium;
 color: purple;
 list-style: none;
+margin: 0;
+padding :0;
 }
-
-.div {
-    display: flex;
-    text-align: center;
+  
+  li {
+    margin: 2px;
   }
   
- 
     
  
